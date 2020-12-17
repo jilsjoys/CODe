@@ -1,6 +1,6 @@
 # CODe
 
-A new Flutter project.
+Flutter project with Rive animation and Firebase Database
 
 ## Getting Started
 
